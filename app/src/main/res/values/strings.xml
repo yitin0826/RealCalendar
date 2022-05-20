@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RealCalendar</string>
+    <string name="email">請輸入您的信箱</string>
+    <string name="login">登入</string>
+    <string name="edit">編輯班表</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+    <string name="today">Today</string>
+    <string name="notice">notifications</string>
+</resources>
